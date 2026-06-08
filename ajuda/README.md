@@ -1,32 +1,28 @@
 # Central de Ajuda - Rotina Flow
 
-Esta central foi organizada como uma rotina de trabalho real.
+Aqui estão os passos simples para usar o Rotina Flow no dia a dia.
 
-A ordem recomendada para operar uma competência é:
+A ordem mais comum é:
 
-1. Implantar ou revisar a empresa.
-2. Processar DP/eSocial/DARF.
-3. Processar Simples Nacional.
-
-Por que essa ordem? Porque o Simples Fator R depende de dados da empresa, notas fiscais e bases de folha. Se a folha da competência ou as bases dos 12 meses estiverem erradas, o Fator R e o anexo tributado podem sair errados.
-
-## Comece por aqui
+1. Cadastrar ou importar a empresa.
+2. Fazer folha/eSocial, quando a empresa tiver folha.
+3. Fazer Simples Nacional.
 
 <div class="help-card-grid">
   <section class="help-card">
-    <h2>Cadastro e implantação de empresa</h2>
-    <p>Escolha entre empresa nova ou empresa já existente no eSocial. Revise os dados que alimentam todos os módulos.</p>
+    <h2>Cadastro e implantação</h2>
+    <p>Coloque a empresa no sistema uma vez. Depois ela aparece nas rotinas.</p>
   </section>
   <section class="help-card">
     <h2>Folha, DP e eSocial</h2>
-    <p>Calcule a folha, envie eventos ao eSocial, gere DARF DCTFWeb e entregue documentos.</p>
+    <p>Calcule a folha, envie eSocial, gere DARF e entregue documentos.</p>
   </section>
   <section class="help-card">
     <h2>Simples Nacional</h2>
-    <p>Importe notas, confira Fator R, transmita PGDAS-D, gere DAS e envie ao Nibo.</p>
+    <p>Busque notas, calcule, confira, transmita PGDAS e gere DAS.</p>
   </section>
 </div>
 
-## Regra prática
+## Dica rápida
 
-Se a empresa já existe no eSocial, comece importando o ZIP/XML. Se a empresa é nova, cadastre manualmente e complete estabelecimento, lotação e sócio/pró-laborista antes de enviar eventos.
+Se a empresa já existe no eSocial, importe o ZIP/XML. Se é nova, cadastre manualmente.

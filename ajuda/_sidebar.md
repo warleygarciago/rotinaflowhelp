@@ -1,15 +1,15 @@
 - [Início](/)
 - <a href="editor/" target="_self">Editor web</a>
-- Cadastro e implantação de empresa
-  - [Visão geral](cadastro-implantacao/visao-geral.md)
+- Cadastro e implantação
+  - [Comece aqui](cadastro-implantacao/visao-geral.md)
   - [Empresa nova](cadastro-implantacao/empresa-nova.md)
-  - [Empresa já existente no eSocial](cadastro-implantacao/empresa-existente-esocial.md)
-  - [Checklist antes da competência](cadastro-implantacao/checklist-antes-da-competencia.md)
+  - [Empresa que já existe no eSocial](cadastro-implantacao/empresa-existente-esocial.md)
+  - [Antes de processar](cadastro-implantacao/checklist-antes-da-competencia.md)
 - Folha, DP e eSocial
-  - [Processar a competência](folha-esocial/processar-competencia.md)
-  - [Eventos e ajustes do pró-laborista](folha-esocial/eventos-e-ajustes.md)
-  - [DARF, Nibo e WhatsApp](folha-esocial/darf-nibo-whatsapp.md)
+  - [Fazer folha da competência](folha-esocial/processar-competencia.md)
+  - [Ajustes do sócio](folha-esocial/eventos-e-ajustes.md)
+  - [Entregar documentos](folha-esocial/darf-nibo-whatsapp.md)
 - Simples Nacional
-  - [Processar a competência](simples-nacional/processar-competencia.md)
-  - [Bases 12 meses e Fator R](simples-nacional/bases-fator-r.md)
-  - [PGDAS, DAS e entrega](simples-nacional/pgdas-das-entrega.md)
+  - [Fazer Simples da competência](simples-nacional/processar-competencia.md)
+  - [Conferir Fator R](simples-nacional/bases-fator-r.md)
+  - [Transmitir e gerar DAS](simples-nacional/pgdas-das-entrega.md)
