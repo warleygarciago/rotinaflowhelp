@@ -1,7 +1,16 @@
 - [Início](/)
 - <a href="editor/" target="_self">Editor web</a>
+- Configurações gerais
+  - [Como acessar o Rotina Flow](configuracoes-gerais/acessar-rotina-flow.md)
+  - [Como entender o painel inicial](configuracoes-gerais/painel-inicial.md)
+  - [Cadastro de empresa](configuracoes-gerais/cadastro-empresa.md)
+  - [Como cadastrar empresa nova](configuracoes-gerais/cadastrar-empresa-nova.md)
+  - [Como implantar empresa existente pelo eSocial](configuracoes-gerais/implantar-empresa-existente-esocial.md)
+  - [Como configurar Nibo](configuracoes-gerais/integracao-nibo.md)
+  - [Como configurar WhatsApp](configuracoes-gerais/whatsapp.md)
+  - [Como conferir histórico de envios](configuracoes-gerais/historico-envios.md)
 - Simples Nacional
-  - [Como configurar uma empresa](simples-nacional/configuracao-empresa.md)
+  - [Como preparar empresa para o Simples Fator R](simples-nacional/configuracao-empresa.md)
   - [Como configurar a competência](simples-nacional/competencia-apuracao.md)
   - [Como calcular o Simples Nacional](simples-nacional/calcular-simples-nacional.md)
   - [Como conferir Fator R](simples-nacional/fator-r.md)
@@ -9,8 +18,8 @@
   - [Como conferir divergências](simples-nacional/conferir-divergencias.md)
   - [Como gerar ou consultar o DAS](simples-nacional/gerar-das.md)
   - [Erros comuns](simples-nacional/erros-comuns.md)
-- Folha, Pró-labore e eSocial
-  - [Como configurar empresa para folha](folha-esocial/configuracao-empresa-folha.md)
+- Folha, DP e eSocial
+  - [Como preparar empresa para DP/eSocial](folha-esocial/configuracao-empresa-folha.md)
   - [Como cadastrar certificado digital](folha-esocial/certificado-digital.md)
   - [Como importar arquivos do eSocial](folha-esocial/importar-esocial.md)
   - [Como conferir eventos importados](folha-esocial/eventos-importados.md)
@@ -20,10 +29,3 @@
   - [Como fechar S-1299](folha-esocial/fechar-s1299.md)
   - [Como consultar DCTFWeb e gerar DARF](folha-esocial/dctfweb-darf.md)
   - [Erros comuns](folha-esocial/erros-comuns.md)
-- Configurações gerais
-  - [Como acessar o Rotina Flow](configuracoes-gerais/acessar-rotina-flow.md)
-  - [Como entender o painel inicial](configuracoes-gerais/painel-inicial.md)
-  - [Como cadastrar empresa](configuracoes-gerais/cadastro-empresa.md)
-  - [Como configurar Nibo](configuracoes-gerais/integracao-nibo.md)
-  - [Como configurar WhatsApp](configuracoes-gerais/whatsapp.md)
-  - [Como conferir histórico de envios](configuracoes-gerais/historico-envios.md)
