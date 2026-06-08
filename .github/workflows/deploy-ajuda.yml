@@ -1,0 +1,41 @@
+name: Publicar Central de Ajuda
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "ajuda/**"
+      - ".github/workflows/deploy-ajuda.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages-ajuda
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Preparar somente a pasta ajuda
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ajuda
+
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
