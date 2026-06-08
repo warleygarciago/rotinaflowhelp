@@ -79,11 +79,10 @@
   </main>
   <script>
     const categories = [
-      { label: 'Configurações gerais', path: 'configuracoes-gerais' },
-      { label: 'Simples Nacional', path: 'simples-nacional' },
-      { label: 'Folha, DP e eSocial', path: 'folha-esocial' }
-    ];
-    const els = {
+      { label: 'Cadastro e implantação de empresa', path: 'cadastro-implantacao' },
+      { label: 'Folha, DP e eSocial', path: 'folha-esocial' },
+      { label: 'Simples Nacional', path: 'simples-nacional' }
+    ];    const els = {
       owner: document.getElementById('ownerInput'), repo: document.getElementById('repoInput'), branch: document.getElementById('branchInput'), basePath: document.getElementById('basePathInput'), token: document.getElementById('tokenInput'), title: document.getElementById('titleInput'), category: document.getElementById('categoryInput'), slug: document.getElementById('slugInput'), video: document.getElementById('videoInput'), content: document.getElementById('contentInput'), list: document.getElementById('articleList'), status: document.getElementById('status'), preview: document.getElementById('preview'), writeTab: document.getElementById('writeTab'), previewTab: document.getElementById('previewTab')
     };
     let articles = []; let selectedPath = ''; let selectedSha = ''; let sidebarSha = '';

@@ -1,29 +1,32 @@
 # Central de Ajuda - Rotina Flow
 
-Bem-vindo à Central de Ajuda do Rotina Flow.
+Esta central foi organizada como uma rotina de trabalho real.
 
-Aqui você encontra tutoriais rápidos para utilizar as principais rotinas do sistema: cadastro de empresas, Simples Fator R, DP/eSocial/DARF, DCTFWeb, Nibo, WhatsApp e entrega de documentos ao cliente.
+A ordem recomendada para operar uma competência é:
 
-Escolha uma categoria no menu lateral e siga os vídeos passo a passo.
+1. Implantar ou revisar a empresa.
+2. Processar DP/eSocial/DARF.
+3. Processar Simples Nacional.
+
+Por que essa ordem? Porque o Simples Fator R depende de dados da empresa, notas fiscais e bases de folha. Se a folha da competência ou as bases dos 12 meses estiverem erradas, o Fator R e o anexo tributado podem sair errados.
+
+## Comece por aqui
 
 <div class="help-card-grid">
   <section class="help-card">
-    <h2>Cadastro e implantação</h2>
-    <p>Comece pelo cadastro único da empresa. Ele atende tanto Simples Fator R quanto DP/eSocial/DARF.</p>
-  </section>
-  <section class="help-card">
-    <h2>Simples Nacional</h2>
-    <p>Tutoriais sobre apuração, conferência, Fator R, DAS e acompanhamento das empresas.</p>
+    <h2>Cadastro e implantação de empresa</h2>
+    <p>Escolha entre empresa nova ou empresa já existente no eSocial. Revise os dados que alimentam todos os módulos.</p>
   </section>
   <section class="help-card">
     <h2>Folha, DP e eSocial</h2>
-    <p>Tutoriais sobre implantação por XML, folha, pró-labore, eventos S-1200, S-1210, S-1299, DCTFWeb e DARF.</p>
+    <p>Calcule a folha, envie eventos ao eSocial, gere DARF DCTFWeb e entregue documentos.</p>
+  </section>
+  <section class="help-card">
+    <h2>Simples Nacional</h2>
+    <p>Importe notas, confira Fator R, transmita PGDAS-D, gere DAS e envie ao Nibo.</p>
   </section>
 </div>
 
-## Como usar esta central
+## Regra prática
 
-1. Comece em **Cadastro de empresa** se estiver implantando cliente.
-2. Escolha entre empresa nova ou empresa já existente no eSocial.
-3. Depois siga para o módulo mensal: Simples Fator R ou DP/eSocial/DARF.
-4. Consulte erros comuns quando algo não sair como esperado.
+Se a empresa já existe no eSocial, comece importando o ZIP/XML. Se a empresa é nova, cadastre manualmente e complete estabelecimento, lotação e sócio/pró-laborista antes de enviar eventos.
